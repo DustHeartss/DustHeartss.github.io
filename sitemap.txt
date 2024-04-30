@@ -1,2 +1,13 @@
+https://dustheartss.github.io/2024/04/30/Java/SSM%E6%95%B4%E5%90%88/
+https://dustheartss.github.io/2024/04/30/Java/Maven/
+https://dustheartss.github.io/2024/04/30/Java/%E4%BC%9A%E8%AF%9D%E7%AE%A1%E7%90%86%E2%80%94cookie%E3%80%81session%E3%80%81%E8%BF%87%E6%BB%A4%E5%99%A8/
+https://dustheartss.github.io/2024/04/30/Java/SpringMVC/
+https://dustheartss.github.io/2024/04/30/Java/Spring/
 https://dustheartss.github.io/2024/04/29/hello-world/
 https://dustheartss.github.io/
+https://dustheartss.github.io/tags/Maven/
+https://dustheartss.github.io/tags/SSM%E6%95%B4%E5%90%88/
+https://dustheartss.github.io/tags/Spring/
+https://dustheartss.github.io/tags/SpringMVC/
+https://dustheartss.github.io/tags/%E4%BC%9A%E8%AF%9D%E7%AE%A1%E7%90%86/
+https://dustheartss.github.io/categories/Java/
