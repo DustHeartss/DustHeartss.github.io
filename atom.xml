@@ -3,11 +3,11 @@
   <title></title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://dustheartss.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://dustheartss.github.io/"/>
   <updated>2024-04-29T11:53:21.045Z</updated>
-  <id>http://example.com/</id>
+  <id>https://dustheartss.github.io/</id>
   
   <author>
     <name>岳宗宁</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2024/04/29/hello-world/"/>
-    <id>http://example.com/2024/04/29/hello-world/</id>
+    <link href="https://dustheartss.github.io/2024/04/29/hello-world/"/>
+    <id>https://dustheartss.github.io/2024/04/29/hello-world/</id>
     <published>2024-04-29T11:53:21.045Z</published>
     <updated>2024-04-29T11:53:21.045Z</updated>
     
